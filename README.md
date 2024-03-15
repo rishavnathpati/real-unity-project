@@ -121,6 +121,7 @@ Here the naming conventions we're using:
 * Addressable 
 * UI Toolkit
 * Latest Input System
+* Rigidbody
 
 
 **License:**
